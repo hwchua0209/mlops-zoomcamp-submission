@@ -3,8 +3,8 @@
 ## Homeworks Progess
 | Module | Name  | Progress |
 | :---: | ------------- | :---: |
-| 1 | Introduction|  |
-| 2 | Experiment Tracking  |  |
+| 1 | [Introduction](https://github.com/hwchua0209/mlops-zoomcamp-submission/tree/main/01-intro)| ✅ |
+| 2 | [Experiment Tracking (MLflow)](https://github.com/hwchua0209/mlops-zoomcamp-submission/tree/main/02-experiment-tracking) | ✅ |
 | 3 | Training Pipelines  |  |
 | 4 | Deployment  |  |
 | 5 | Monitoring |  |
